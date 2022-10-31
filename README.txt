@@ -1,0 +1,1 @@
+First project that I done from Android. The goal of the game try to catch charcter as much as possible with given time
